@@ -1,0 +1,14 @@
+driver can wait for a particular time to load all the webelements in to the webpage.
+
+1) implicitly wait
+
+2) explicitly wait
+
+
+1) implicitly wait
+
+driver can wait for a particular time to load all the webelements in tho the webpage
+
+2) explicitly wait
+
+driver can wait for a particular time to load specific web element in to the webpage
